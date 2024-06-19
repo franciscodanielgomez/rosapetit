@@ -1,43 +1,92 @@
 ---
 title: About
 seo:
-  title: About Me
+  title: About
   description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
   image:
-    src: '/about.jpeg'
+    src: '/about.webp'
     alt: A person sitting at a desk in front of a computer
 ---
 
-![Alt text for image](/about.jpeg)
+![Alt text for image](/about.webp)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+*I am a dedicated, professional, and quality of work person, my personal qualities let me be immediately integrated with every group.*
 
-## Ethan Donovan - Web Developer based in Estonia
 
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+##  I'm a Medical Physicist
 
-## Skills and Expertise
+I finished the Master’s program in Advanced Studies in Medical Physics at the University of Trieste in collaboration with ICTP. I also completed my clinical training in radiotherapy at the University Hospital of Siena.
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+My previous studies were carried out at the Faculty of Science and Technology (Facyt) at the University of Carabobo, where I obtained a degree in Physics (thesis: **Statistical Process Control in Tomotherapy Pre-treatment QA: Fixing Tolerance and Action Limits for the Verification Metrics**).
 
-## Innovation and Problem-Solving
+Subsequently, I served as a professor in the Physics Department at the University of Carabobo, teaching General Physics and Optics (thesis: **Study of the Absorbed Dose Curves in a Tissue Using Monte Carlo Simulation Techniques**).
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+## General Skills
 
-## Global Perspective, Local Impact
+Adaptability | Communicative proficiency | Analytical skills | Research skills | Teamwork | Problem solving | Motivator & Leader
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+## Technical Skills
 
-## Continuous Learning
+Latex | Microsoft Office | Eclipse TPS | Tomotherapy TPS | Python | Matlab | C#
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+## Lenguages
 
-## Collaboration and Communication
+Spanish | English | Italian
 
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
+## Experience
 
-## Get in Touch
+- ### Medical Physics Intern
+  #### Jan. 2020 - Jan. 2021 - University Hospital of Siena (Siena, Italy)
 
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
+  As a medical physicist intern at the University Hospital of Siena, my responsibilities encompassed the safety, performance quality assurance, and control of radiotherapy equipment and imaging devices. This role included subareas such as radiotherapy, diagnostic imaging, and nuclear medicine. My training primarily focused on radiotherapy practices within clinical settings, including EBRT reference dosimetry, EBRT relative dosimetry, imaging equipment management, and radiation protection.
 
-_Let's build something amazing together!_
+
+- ### Medical Physics Intern
+  #### Jan. 2019 - Dic. 2019 - Trieste Hospital (Trieste, Italy)
+
+  As part of the master’s program, programmed practices were carried out with the purpose of training in the areas of: radiotherapy, imaging diagnosis and nuclear medicine.
+
+
+- ### Part-time Professor
+  #### Jan. 2018 - Dic. 2018 - University of Carabobo (Carabobo, Venezuela)
+
+  Responsible for planning, preparing courses, teaching, organizing, conducting seminars, evaluating students’ progress, preparing and correcting exercises, courses, and exams.
+
+
+- ### Quality Control Intern
+  #### Aug. 2016 - Dic. 2016 - Coteserca Servicios C.A (Carabobo, Venezuela)
+
+  Documentation and organization tasks to support the e ciency and e ectiveness of the calibration process chain. Some duties and responsibilities include were: inspecting output samples using appropriate methods, such as comparing to standards, measuring dimensions and examining functionality, recording inspection results by completing reports and summarizing re-works, and proposing improvements to the production process.
+
+
+- ### Medical Physics Intern
+  #### Aug. 2016 - Dic. 2016 - Oncological Hospital Dr. Miguel Pérez Carreño (Carabobo, Venezuela)
+
+  Observer of the techniques used in oncology for the radiation treatment in several patients, the responsibilities and functions of a doctor, medical physics, and technician. Analysis and documentation of the performance and planning of the treatment carried out for the medical physicist based in Linac and cobalt machine.
+
+- ### Medical Physics Intern
+  #### Aug. 2016 - Dic. 2016 - Venezuelan Institute of Scientifc Research (San Antonio, Venezuela)
+
+  Training development in the Nuclear Technology Unit, specifically in the Secondary Laboratory of Calibration Dosimetry (LSCD). The academic training was based on understanding and studying the basic concepts of dosimetric quantities, radiological protection quantities, and dosimetric calibration. I participated in the follow-up of measurement and quality control procedures at the LSCD, and I was involved in the analysis and execution of experimental setups for the calibration of ionizing chambers, Geiger-Muller counters, proportional counters, and numerical detectors.
+
+## Courses and Conferences
+
+- ### 2021
+    - **Brachytherapy - Basic Principles and Advanced Clinical Applications** - SCMPCR (South Asia-Virtual)
+
+- ### 2020
+    - **Radiation Protection Series - Episode 2 - Errors and Accidents in Radiotherapy** - EFRS (Italy- Virtual)
+
+    - **Radiation Protection Series - Episode 1 - Risk Management in Radiotherapy and Learning System of Incidents** - EFRS (Italy- Virtual)
+
+    - **Clinical Meeting of Magnetic Resonance, Small Field Dosimetry and Radiotherapy** - AAPM (Siena, Italy)
+
+    - **Safety and Quality Course in Radiotherapy - Management of Incidents and Accidents in Radiotherapy** - IAEA (Italy, Virtual)
+
+- ### 2019
+    
+    - **Safety and Quality in Radiotherapy** - ICTP – IAEA (Trieste, Italy)
+
+    - **Establishment and Use of DRL for Medical Images** - ICTP, AAPM, EFOM, MEFMF (Trieste, Italy)
+
+    - **Radiotherapy School** - ICTP (Trieste, Italy)
