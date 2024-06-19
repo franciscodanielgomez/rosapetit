@@ -42,7 +42,7 @@ const siteConfig: SiteConfig = {
     subtitle: 'Medical Physicist | Physicist',
     description: 'Medical Physicist | Physicist',
     image: {
-        src: '/dante-preview.jpg',
+        src: '/rosa-preview.webp',
         alt: 'Rosa Petit - Medical Physicist | Physicist'
     },
     headerNavLinks: [
@@ -93,7 +93,7 @@ const siteConfig: SiteConfig = {
             "\n" +
             "I am passionate about science, which is evident in my professional and educational experiences. This passion led me to discover my love for writing, enabling me to express ideas and information clearly, ensuring accessibility to knowledge for everyone. Through these dual vocations, I have honed my organizational, classification, and communication skills. Follow me on <a href='https://www.linkedin.com/in/rosaangelicapetitsevilla/'>Linkedin</a> for more information.",
         image: {
-            src: '/hero.jpeg',
+            src: '/hero.webp',
             alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [
